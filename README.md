@@ -10,7 +10,7 @@ This project analyzes Superstore sales data using Python, MongoDB, and Power BI.
 
 ## How to Use
 1. Clone the repository:
-   https://github.com/manasasuryasubrahmanayeswari/superstore-sales-analysis
+   https://github.com/manasasuryasubrahmanayeswari/superstore-sales-analysis/tree/main
 2. Run the Python scripts.
 3. Open Power BI dashboards.
 
